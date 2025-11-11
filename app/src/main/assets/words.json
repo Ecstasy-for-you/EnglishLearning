@@ -1,0 +1,24 @@
+{
+  "words": [
+    {"id": 1, "english": "apple", "russian": "яблоко", "category": "noun"},
+    {"id": 2, "english": "book", "russian": "книга", "category": "noun"},
+    {"id": 3, "english": "computer", "russian": "компьютер", "category": "noun"},
+    {"id": 4, "english": "water", "russian": "вода", "category": "noun"},
+    {"id": 5, "english": "house", "russian": "дом", "category": "noun"},
+    {"id": 6, "english": "run", "russian": "бежать", "category": "verb"},
+    {"id": 7, "english": "read", "russian": "читать", "category": "verb"},
+    {"id": 8, "english": "write", "russian": "писать", "category": "verb"},
+    {"id": 9, "english": "speak", "russian": "говорить", "category": "verb"},
+    {"id": 10, "english": "learn", "russian": "учить", "category": "verb"},
+    {"id": 11, "english": "long", "russian": "длинный", "category": "adjective"},
+    {"id": 12, "english": "short", "russian": "короткий", "category": "adjective"},
+    {"id": 13, "english": "happy", "russian": "счастливый", "category": "adjective"},
+    {"id": 14, "english": "beautiful", "russian": "красивый", "category": "adjective"},
+    {"id": 15, "english": "strong", "russian": "сильный", "category": "adjective"},
+    {"id": 16, "english": "rabbit", "russian": "кролик", "category": "noun"},
+    {"id": 17, "english": "cat", "russian": "кот", "category": "noun"},
+    {"id": 18, "english": "dog", "russian": "собака", "category": "noun"},
+    {"id": 19, "english": "school", "russian": "школа", "category": "noun"},
+    {"id": 20, "english": "friend", "russian": "друг", "category": "noun"}
+  ]
+}

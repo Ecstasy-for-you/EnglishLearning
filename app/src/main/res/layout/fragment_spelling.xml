@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:gravity="center">
+
+    <TextView
+        android:id="@+id/questionText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:text="Вставьте пропущенную букву"
+        android:textAlignment="center"
+        android:layout_marginBottom="32dp" />
+
+    <TextView
+        android:id="@+id/hintText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:text="Подсказка"
+        android:textColor="#666"
+        android:layout_marginBottom="32dp" />
+
+    <EditText
+        android:id="@+id/answerInput"
+        android:layout_width="120dp"
+        android:layout_height="60dp"
+        android:hint="Буква"
+        android:textSize="18sp"
+        android:maxLines="1"
+        android:inputType="textCapCharacters"
+        android:textAlignment="center"
+        android:gravity="center"
+        android:background="@drawable/edit_text_border"
+        android:layout_marginBottom="32dp" />
+
+    <Button
+        android:id="@+id/submitButton"
+        android:layout_width="200dp"
+        android:layout_height="60dp"
+        android:text="Далее"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+</LinearLayout>
